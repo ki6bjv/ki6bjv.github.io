@@ -16,3 +16,7 @@ This is all in addition to the regular things that a do on a typical day. Helpin
 The longest day of the week is always the day before school starts and the the day schools starts. Yes I am running those days together, in my mind they do tend to run together. They run together because I tend to stay late the night before tying up loose ends before schools start and I tend to come in early the day that schools starts. 
 
 I think that what makes this one week feel so long is the fact that it is a real sprint in terms of the amount of work that needs to be done and the hard deadline of school starting. Now that is not to say that there are not sprints like this during the rest of the year, it just seems like this is 'THE BIG ONE' for whatever reason. 
+
+***
+
+2016-08-14
