@@ -2,8 +2,8 @@ name: Bloggy Blog
 url: http://ki6bjv.com
 description: Just a Blog
 
-permalink: /:year/:month/:day/:title/
-paginate: 10
+permalink: /:title/
+paginate: 3
 
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
