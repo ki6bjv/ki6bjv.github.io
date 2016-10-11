@@ -1,6 +1,7 @@
 name: Bloggy Blog
 url: http://ki6bjv.com
 description: Just a Blog
+title: ki6bjv.com
 
 permalink: /:title/
 paginate: 3
