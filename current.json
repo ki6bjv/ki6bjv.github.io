@@ -1,0 +1,169 @@
+{
+  "image_purple": "partly_cloudy_purple.png", 
+  "orig_code": "HOU", 
+  "headingAbbrStr": "W", 
+  "altitude_f": "38 002 ft", 
+  "altitude_m": "11 583 m", 
+  "wth_fc3_condition": "Sunny", 
+  "longitude": "-114.520", 
+  "gspeed_m": "457 mph", 
+  "eta_24": "21:18", 
+  "ttg": "223", 
+  "lochist": [
+    [
+      "29.645419", 
+      "-95.278889"
+    ], 
+    [
+      "32.573", 
+      "-108.072"
+    ], 
+    [
+      "33.176", 
+      "-111.203"
+    ], 
+    [
+      "33.222", 
+      "-111.456"
+    ], 
+    [
+      "33.279", 
+      "-111.772"
+    ], 
+    [
+      "33.502", 
+      "-112.582"
+    ], 
+    [
+      "33.634", 
+      "-113.021"
+    ], 
+    [
+      "33.689", 
+      "-113.206"
+    ], 
+    [
+      "33.708", 
+      "-113.268"
+    ], 
+    [
+      "33.743", 
+      "-113.391"
+    ], 
+    [
+      "33.780", 
+      "-113.515"
+    ], 
+    [
+      "33.798", 
+      "-113.577"
+    ], 
+    [
+      "33.817", 
+      "-113.640"
+    ], 
+    [
+      "33.852", 
+      "-113.764"
+    ], 
+    [
+      "33.870", 
+      "-113.827"
+    ], 
+    [
+      "33.907", 
+      "-113.953"
+    ], 
+    [
+      "33.943", 
+      "-114.079"
+    ], 
+    [
+      "33.961", 
+      "-114.142"
+    ], 
+    [
+      "33.979", 
+      "-114.204"
+    ], 
+    [
+      "33.997", 
+      "-114.268"
+    ], 
+    [
+      "34.015", 
+      "-114.330"
+    ], 
+    [
+      "34.032", 
+      "-114.393"
+    ], 
+    [
+      "34.050", 
+      "-114.456"
+    ], 
+    [
+      "34.068", 
+      "-114.520"
+    ]
+  ], 
+  "gspeed_k": "736 km/h", 
+  "wth_fc2_highc": "25", 
+  "dest_code": "LAX", 
+  "wth_fc4_highf": "94", 
+  "wth_fc2_highf": "76", 
+  "gspeed": "457", 
+  "image_white": "night_partly_cloudy_white.png", 
+  "currentF": "64\u00b0F at LAX", 
+  "tail": "N252WN", 
+  "currentC": "18\u00b0C at LAX", 
+  "wth_fc1_condition": "Sunny", 
+  "current": 1381635736, 
+  "headingStr": "West", 
+  "wth_fc1_highf": "75", 
+  "night_icon": "wsymbol_0008_clear_sky_night", 
+  "wth_fc3_icon": "", 
+  "wth_fc1_highc": "24", 
+  "latitude": "34.068", 
+  "wth_fc1_lowf": "53", 
+  "dist_remain": "223", 
+  "wth_fc2_icon": "", 
+  "wth_fc1_icon": "", 
+  "offgnd": 1381625902, 
+  "wth_fc4_dow": "Tue", 
+  "flight": "2597", 
+  "description": "Partly Cloudy", 
+  "pcent_flt_complete": 83, 
+  "wth_condition": "Partly Cloudy", 
+  "wth_fc3_lowc": "17", 
+  "dest_city": "Los Angeles", 
+  "heading": "281.041", 
+  "eta_utc": 1381637894, 
+  "wth_fc2_condition": "Sunny", 
+  "image_gray": "partly_cloudy_gray.png", 
+  "wth_icon": "", 
+  "orig_city": "Houston", 
+  "fltleg": "1", 
+  "wth_fc4_condition": "Sunny", 
+  "wth_fc2_lowc": "16", 
+  "wth_fc2_lowf": "61", 
+  "wth_fc2_dow": "Sun", 
+  "wth_fc3_lowf": "63", 
+  "condition": "Partly Cloudy", 
+  "wth_fc1_lowc": "12", 
+  "eta_ampm": "09:18 pm", 
+  "wth_fc4_highc": "34", 
+  "wth_fc4_lowc": "16", 
+  "wth_tempc": "18", 
+  "wth_fc4_lowf": "61", 
+  "wth_fc3_dow": "Mon", 
+  "wth_tempf": "64", 
+  "wth_fc3_highf": "87", 
+  "day_icon": "wsymbol_0002_sunny_intervals", 
+  "eta": "04:18:12", 
+  "wth_fc1_dow": "Sat", 
+  "wth_fc3_highc": "31", 
+  "ttgc": "0h 36m", 
+  "wth_fc4_icon": "", 
+  "altitude": "38002.625"
+}
