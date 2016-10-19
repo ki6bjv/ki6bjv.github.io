@@ -38,5 +38,3 @@ Then today Powershell was [open sourced](https://azure.microsoft.com/en-us/blog/
 Microsoft has changed and for the better in my opinion. It is really a brave new world out there. 
 
 ***
-
-2016-08-18

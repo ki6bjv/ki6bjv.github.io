@@ -14,5 +14,3 @@ And I am crazy for doing so.
 But then I am an Apple fan and they did do [this](https://www.youtube.com/watch?v=tjgtLSHhTPg) back in the day. 
 
 ***
-
-2016-09-11
