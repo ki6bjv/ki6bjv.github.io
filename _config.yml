@@ -4,7 +4,7 @@ description: Just a Blog
 title: ki6bjv.com
 
 permalink: /:title/
-paginate: 3
+paginate: 5
 
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

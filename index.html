@@ -17,8 +17,8 @@ gitgittitle: ki6bjv.com
 		{% else %}
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		{% endif %}
-
-		<div class="post-content">{{ post.content }}</div>
+		
+		<p>Posted on <span class="postdate">{{ post.date | date: "%b %d, %Y" }}</span></p>
 
 	</article>
 
