@@ -16,7 +16,7 @@ Now that things are starting to get back to *normal* so to speak, I am going to 
 
 ***
 
-So my plan is to get back into doing the things I like in tech that are prue pleasure for me. Ham Radios, writing code for my own pleasure and projects, speaking/presenting on more diffrent topics. 
+So my plan is to get back into doing the things I like in tech that are pure pleasure for me. Ham Radios, writing code for my own pleasure and projects, speaking/presenting on more diffrent topics. 
 
 I might even try to final get that SQl user group up and running. 
 
