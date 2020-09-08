@@ -9,3 +9,6 @@ paginate: 5
 plugins: [jekyll-paginate]
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+# Google Analytics
+google_analytics: UA-177526884-1

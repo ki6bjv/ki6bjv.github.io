@@ -12,6 +12,9 @@
 
   <link href="/assets/css/style.css" rel="stylesheet" />
   <link href="/assets/css/colors-dark.css" rel="stylesheet" />
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 
 </head>
 
