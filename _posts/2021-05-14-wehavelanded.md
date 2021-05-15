@@ -10,4 +10,3 @@ Traveling with a small dog and a cat that have never done so before was a bit ex
 Now we are going to take the weekend to decompress, we just had our first home cooked meal in about a week, and then start the process of finding an apartment to rent. 
 
 Onwards and upwards, as the say. If you'll pardon the pun.
-***
